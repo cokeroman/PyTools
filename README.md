@@ -9,3 +9,6 @@ PyTools es un conjunto de utilidades escritas en python, la mayoria de ellas cen
 
 [*] zip-crack.py
 	[-] Este script se basa en wordlist.txt (lista de password) y esta pensado para realizar ataques de fuerza bruta contra ficheros zip protegidos con password.
+
+[*] mysql_privilege_elevation.pl
+	[-] Este script permite una elevacion de privilegios en un mysql que tenga un usuario con all_privileges y permiso FILE en una db. Crea un usuario con todos los privilegios 
